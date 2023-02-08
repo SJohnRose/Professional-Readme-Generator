@@ -1,14 +1,14 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-  # dgfgh
+  # Professional Readme Generator
   ## Description
-  dfhdh
+  A command-line application to generate a README file
   ## Installation
   undefined
   ## Usage
-  dfgdfg
+  Application can be invoked using the command 'node index.js'
   ## Collaborators
-  dfgdfg
+  Shamini John Rose
   ## Features
-  fgdfg  
+  Uses Node.js technology and inquirer package.  
   License : Apache  
   (https://www.apache.org/licenses/LICENSE-2.0)
